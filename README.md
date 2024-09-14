@@ -1,2 +1,2 @@
 # School
- A repository for school projects
+ This repository contains my school projects.
